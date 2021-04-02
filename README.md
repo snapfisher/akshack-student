@@ -52,13 +52,8 @@ In this hack you will solve a common challenge for companies migrating to the cl
 - See the Challenge 0 documentation for the rest of the prerequisites.  Challenge 0 should be done as prework before you arrive at the hack
 
 ## Repository Contents
-- `../Coach/[Guides]`
-  - `../Coach/Lectures`
-- `../Coach/Solutions`
-   - Example solutions to the challenges (If you're a student, don't cheat yourself out of an education!)
 - `../Student/Resources`
    - FabMedial app code and sample templates to aid with challenges
-
 
 ## Contributors
 Mostly based on topics from [What the Hack](https://github.com/microsoft/WhatTheHack).  Modified/updated by Larry Claman and Paul Fisher.
